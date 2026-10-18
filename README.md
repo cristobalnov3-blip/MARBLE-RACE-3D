@@ -39,4 +39,67 @@ I finally finished the extrude of the the plinko, it took a while and I got stuc
 
 <img width="862" height="802" alt="Screenshot 2026-10-15 222624" src="https://github.com/user-attachments/assets/c946a377-275c-4075-8ed7-229ebf9c10b5" />
 
+--------
+
+10/16 
+
+started at 6:07pm
+
+Hello again! Today I want to do the 5h progress report, and do the staircase part of the merbl run
+
+6:10-6:42pm 
+
+I just did, edited, and submitted y 5h progress report, I think I did well and I like the end result.
+<img width="1719" height="1136" alt="Screenshot 2026-10-16 204755" src="https://github.com/user-attachments/assets/ce388cb8-993a-4c03-8b9b-34e148ad66d2" />
+
+6:45-7:35pm
+
+I finished the schematic for the staircase, this one took me a little while since I had some problems that I didn't know how to solve, and my internet was pretty slow for some reason but I think it turned out great in my opinion.
+
+<img width="860" height="1002" alt="Screenshot 2026-10-17 181341" src="https://github.com/user-attachments/assets/dd60f0f7-2bf2-456d-8aef-f411ce0876d9" />
+
+7:40-8:36pm
+
+I did the extrusion, and this one was pretty confusing for me. First I didn't fully get the guide so I looked some videos up. Second when I tried to extrude it, it was messed up for unknown reasons, so I went back to the schematic and tried to fix it, spend 20-25 of testing when it finally did work. I really like the end result, I think tomorrow I'm gonna redo the walls sinceI think they're a bit too tall, but I want to move on right now.
+
+<img width="499" height="898" alt="Screenshot 2026-10-16 212125" src="https://github.com/user-attachments/assets/a51b4a8f-76d8-4d85-950b-e1d326dfb2ad" />
+
+8:42-9:21pm
+
+I decided to go back to the plinko board to try to fix how it looks. At first I tried solving it on my own but I just couldn't fgure it out. So I decided to watch some more videos about extrusion. After some more knowledge I decidd to try again, and after some minor tweeks in the schematic, I DID ITT! it looks a lot better now, but it is blue know i dont know if that is anything important.
+
+
+<img width="744" height="712" alt="image" src="https://github.com/user-attachments/assets/674cc3dd-c88e-494c-a6c8-afe23f74a974" />
+
+------
+
+10/17
+
+Started at 6:00pm
+
+What is up Half Life! Today I want to modify the walls of the stairwell since I think they're too tall. I'm also gonna continue with the guide hopefully to the end so today ot tomorrow I can do my own track of the whole thing.
+
+6:15pm
+
+I just remodeled the stairs, and I liked how they finished, I think it is more realistic.
+
+<img width="1072" height="609" alt="Screenshot 2026-10-17 181416" src="https://github.com/user-attachments/assets/55db54b8-921c-463d-9c3e-a608ef19aaa2" />
+<img width="1091" height="669" alt="Screenshot 2026-10-17 181429" src="https://github.com/user-attachments/assets/2203581a-2617-4fa2-96b3-3f2cb433a8f0" />
+
+Next I'm gonna focus on the funnel.
+
+6:17-7:43pm
+
+I just finished the funnel and it was pretty simple and I had fun, I just had some minor time-taking problems with the fillet but I solved them.
+
+<img width="694" height="659" alt="image" src="https://github.com/user-attachments/assets/ebfd3f65-c741-4b8c-b31b-147b359f8019" />
+<img width="765" height="574" alt="Screenshot 2026-10-17 195139" src="https://github.com/user-attachments/assets/4d3bbc74-49d8-413d-85c2-fbe2119d6d37" />
+
+7:47pm
+Finished the marble and are ready to get started making the whole track.
+
+<img width="605" height="835" alt="image" src="https://github.com/user-attachments/assets/79fe35fd-df5f-43c3-88e8-e382d3054b0a" />
+
+810
+
 
