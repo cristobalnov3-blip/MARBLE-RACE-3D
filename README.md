@@ -79,7 +79,7 @@ Started at 6:00pm
 
 What is up Half Life! Today I want to modify the walls of the stairwell since I think they're too tall. I'm also gonna continue with the guide hopefully to the end so today ot tomorrow I can do my own track of the whole thing.
 
-6:15pm
+6:20pm
 
 I just remodeled the stairs, and I liked how they finished, I think it is more realistic.
 
@@ -88,18 +88,26 @@ I just remodeled the stairs, and I liked how they finished, I think it is more r
 
 Next I'm gonna focus on the funnel.
 
-6:17-7:43pm
+6:17-7:53pm
 
 I just finished the funnel and it was pretty simple and I had fun, I just had some minor time-taking problems with the fillet but I solved them.
 
 <img width="694" height="659" alt="image" src="https://github.com/user-attachments/assets/ebfd3f65-c741-4b8c-b31b-147b359f8019" />
 <img width="765" height="574" alt="Screenshot 2026-10-17 195139" src="https://github.com/user-attachments/assets/4d3bbc74-49d8-413d-85c2-fbe2119d6d37" />
 
-7:47pm
+8:07pm
 Finished the marble and are ready to get started making the whole track.
 
 <img width="605" height="835" alt="image" src="https://github.com/user-attachments/assets/79fe35fd-df5f-43c3-88e8-e382d3054b0a" />
 
-810
+8:10-10:54pm
+I was watching a movie so I didn't do anything(I am not accounting for this time obviously).
+
+11:00pm-1:00am
+I tried making some of the marble run and design the layout, but I'm not good at it. For a long time I tried to do a helix but for the life of me I couldn't figure it out, I watched a lots of videos trying to understand how can I do it in my case but I couldn't figure it out. I also created a little platform where you put the marbles, it is pretty neat. The last hour or so was me drawing on a piece of paper posible designs for me to do, I already chose one and started making it, and I hope to finish it tomorrow.
+
+<img width="1227" height="779" alt="image" src="https://github.com/user-attachments/assets/c782e57f-7de3-4011-9d8e-61352d68cbba" />
+<img width="942" height="730" alt="Screenshot 2026-10-18 004606" src="https://github.com/user-attachments/assets/68cc05a6-c827-41c4-91b4-7b2aa8d5e6af" />
+
 
 
