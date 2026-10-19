@@ -109,5 +109,38 @@ I tried making some of the marble run and design the layout, but I'm not good at
 <img width="1227" height="779" alt="image" src="https://github.com/user-attachments/assets/c782e57f-7de3-4011-9d8e-61352d68cbba" />
 <img width="942" height="730" alt="Screenshot 2026-10-18 004606" src="https://github.com/user-attachments/assets/68cc05a6-c827-41c4-91b4-7b2aa8d5e6af" />
 
+------
+
+10/18
+
+started at 6:03pm
+
+hello half life! today I will finish the track and download the CAD files.
+
+7:21pm
+
+I am continuing the track and I'm about half way done. I am liking it right now and hope it ends up good. Made a wall and first pathway for the marble.
+
+<img width="951" height="845" alt="屏幕截图 2026-10-18 182229" src="https://github.com/user-attachments/assets/6e37a7fc-3736-4e23-8040-3edf9b794513" />
+
+8:20pm
+
+Yay! I just finished the track. I really liked how it ended up, it s simple, but I think is good based that it is my first time doing a thing like this.
+
+<img width="1342" height="1100" alt="屏幕截图 2026-10-18 201748" src="https://github.com/user-attachments/assets/96adb350-576d-4d80-921e-bee44c559efb" />
+
+9:33pm
+
+I moved the elements so they look better for 3D printing and downloaded the CAD files. Overall I liked the learning curve it had, and liked working on the problems/bugs that I faced.
+
+<img width="917" height="801" alt="Screenshot 2026-10-18 212517" src="https://github.com/user-attachments/assets/09e8fe08-f963-438a-967d-e387b4a91bbf" />
+<img width="1504" height="1124" alt="image" src="https://github.com/user-attachments/assets/997aa4f7-4d18-4472-a07d-960284d84d69" />
+
+
+
+
+
+
+
 
 
